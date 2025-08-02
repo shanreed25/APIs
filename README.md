@@ -17,7 +17,7 @@ the API in action
 
 _______________________________________________________________________________________
 
-## How APTs work
+## How APIs work
 1. Your Application(The Customer)
     - request data or a service(using the rules the API has set)
     - this request is made to the external system
