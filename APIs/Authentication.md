@@ -1,6 +1,8 @@
 # API authentication
-- the process of verifying the identity of a client or user attempting to access an Application Programming Interface (API)
-- primary purpose is to ensure that only authorized entities can interact with the API and access its resources, thereby safeguarding sensitive data and preventing misuse. 
+- the process of verifying the identity of a client or user, application, or device attempting to access an Application Programming Interface (API)
+- answers the question, "Who are you?", and  establishes who you are
+- ensures that the entity making the request is legitimate and not an imposter
+- ensure that only authorized entities can interact with the API and access its resources, by ensuring that the entity making the request is legitimate and not an imposter
 
 ## API Authentication Process 
 #### Credential Submission:

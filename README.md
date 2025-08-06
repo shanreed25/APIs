@@ -45,4 +45,10 @@ ________________________________________________________________________________
 
 #### [Headers](./APIs/Parameters/Headers.md)
 - contains metadata about the request and the client making it
+
+#### [Authentication](./APIs/Authentication.md)
+    - the process of verifying the identity of a client or user, application, or device attempting to access an API
+    
+#### [Authorization]()
+    - process that determines what an authenticated user, application, or device is permitted to do or access within the API
 _______________________________________________________________________________________
