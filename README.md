@@ -34,12 +34,15 @@ ________________________________________________________________________________
 
 
 
-#### [Endpoints](./Endpoint.md)
+#### [Endpoints](./APIs/Endpoint.md)
 - a specific, addressable location within an Application Programming Interface (API) where an application can send requests and receive responses
 
-#### [Response Codes](./ResponseCodes.md)
+#### [Response Codes](./APIs/ResponseCodes.md)
 - messages from the server about the outcome of a page request
 
-#### [Parameters](./Parameters.md)
-- APIs can be designed to either accept parameters in their requests or function without them, depending on the specific functionality they offer.
+#### [Parameters](./APIs/Parameters/README.md)
+- allow clients to provide specific instructions or data to influence the API's behavior or the data returned
+
+#### [Headers](./APIs/Parameters/Headers.md)
+- contains metadata about the request and the client making it
 _______________________________________________________________________________________

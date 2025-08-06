@@ -1,6 +1,8 @@
+**APIs can be designed to either accept parameters in their requests or function without them, depending on the specific functionality they offer**
+
 #### APIs without Parameters
 - typically provide a fixed set of data or perform a predefined action without requiring specific input from the client.
-- Example: endpoint that simply returns a list of all available categories or triggers a fixed background process.
+- **Example**:  and endpoint that simply returns a list of all available categories or triggers a fixed background process.
 - suitable for static data retrieval or simple actions where no customization or filtering is needed.
 _____________________________________________________________________
 
@@ -12,6 +14,8 @@ _____________________________________________________________________
 - offer greater flexibility and control to the client, allowing for more nuanced interactions
 - can be more complex to design and document due to the various parameter types and their potential interactions
 - are essential for dynamic data retrieval, search, filtering, and resource manipulation
+
+
 ### Types of Parameters
 - **Path Parameters:** Integral to identifying a specific resource within the URL, `/users/{id}` to fetch a specific user
 - **Query Parameters:** Used for filtering, sorting, pagination, or providing optional data, appended after a `?` in the URL,`products?category=electronics&sort=price`
