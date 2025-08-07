@@ -52,3 +52,6 @@ ________________________________________________________________________________
 #### [Authorization]()
     - process that determines what an authenticated user, application, or device is permitted to do or access within the API
 _______________________________________________________________________________________
+
+
+#### See a list of APIs you can work with [here](./APIs/APILIST.md)
