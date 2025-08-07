@@ -40,3 +40,14 @@ ________________________________________________________________________________
 - **503 Service Unavailable:** The server is temporarily unable to handle requests, possibly due to overload or maintenance.
 - **504 Gateway Timeout:** The server, acting as a gateway or proxy, did not receive a timely response from an upstream server. 
 Remember, while HTTP status codes provide a general overview of the request's outcome, detailed error information should be included within the JSON response body itself for greater clarity and debug-ability.
+
+{
+  "email": {
+	"name": "Syed K",
+	"email": "syed@gmail.com"
+  },
+  "email": {
+	"name": "Syed K",
+	"email": "syed@gmail.com"
+  }
+}

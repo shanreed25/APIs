@@ -23,7 +23,7 @@ _________________________________________________________________________
 - self-contained, stateless tokens that can be used for authentication in microservices architectures.
 #### Basic Authentication:
 - sends username and password in the request headers, typically used in legacy systems.
-#### Bearer Token Authentication:
+#### [Bearer Token Authentication](./AuthorizationMethodS/BearerToken.md):
 - token-based access via the Authorization header, common in modern web APIs.
 #### Mutual TLS (mTLS):
 - uses certificates for mutual verification between client and server, providing a high level of security for sensitive systems.
